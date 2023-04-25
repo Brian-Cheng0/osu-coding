@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Level1>
+	<Room1>
+		<GameObject>0 172 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>0 172 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>0 484 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 172 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 484 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>0 172 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>0 603 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 172 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 603 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>144 315 ZeldaGame.FishBlock</GameObject>
+		<GameObject>144 412 ZeldaGame.FishBlock</GameObject>
+		<GameObject>144 508 ZeldaGame.FishBlock</GameObject>
+		<GameObject>287 315 ZeldaGame.FishBlock</GameObject>
+		<GameObject>287 413 ZeldaGame.FishBlock</GameObject>
+		<GameObject>287 508 ZeldaGame.FishBlock</GameObject>
+		<GameObject>432 316 ZeldaGame.DragonBlock</GameObject>
+		<GameObject>432 412 ZeldaGame.DragonBlock</GameObject>
+		<GameObject>431 508 ZeldaGame.DragonBlock</GameObject>
+		<GameObject>575 316 ZeldaGame.DragonBlock</GameObject>
+		<GameObject>575 412 ZeldaGame.DragonBlock</GameObject>
+		<GameObject>576 508 ZeldaGame.DragonBlock</GameObject>
+		<GameObject>336 460 ZeldaGame.SandBlock</GameObject>
+		<GameObject>382 460 ZeldaGame.SandBlock</GameObject>
+		<GameObject>240 508 ZeldaGame.SandBlock</GameObject>
+		<GameObject>336 508 ZeldaGame.SandBlock</GameObject>
+		<GameObject>382 508 ZeldaGame.SandBlock</GameObject>
+		<GameObject>479 508 ZeldaGame.SandBlock</GameObject>
+		<GameObject>240 557 ZeldaGame.SandBlock</GameObject>
+		<GameObject>288 557 ZeldaGame.SandBlock</GameObject>
+		<GameObject>336 556 ZeldaGame.SandBlock</GameObject>
+		<GameObject>383 556 ZeldaGame.SandBlock</GameObject>
+		<GameObject>431 557 ZeldaGame.SandBlock</GameObject>
+		<GameObject>479 557 ZeldaGame.SandBlock</GameObject>
+
+		<GameObject>336 172 ZeldaGame.UpLockedDoor</GameObject>
+		<GameObject>336 604 ZeldaGame.DownWall</GameObject>
+		<GameObject>0 388 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>672 388 ZeldaGame.RightNormalDoor</GameObject>
+		
+		
+	</Room1>
+	<Room2>
+		<GameObject>-768 172 ZeldaGame.StandardRoom</GameObject>
+		
+		<GameObject>-432 172 ZeldaGame.UpWall</GameObject>
+		<GameObject>-432 604 ZeldaGame.DownWall</GameObject>
+		<GameObject>-768 388 ZeldaGame.LeftWall</GameObject>
+		<GameObject>-96 388 ZeldaGame.RightNormalDoor</GameObject>
+		
+		<GameObject>-768 172 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-768 484 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 172 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 484 ZeldaGame.VerticalBarrier</GameObject>
+		
+		<GameObject>-768 172 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-768 603 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 172 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 603 ZeldaGame.HorizontalBarrier</GameObject>
+	
+		<GameObject>-600 300 ZeldaGame.KeyItem</GameObject>
+
+		<GameObject>-300 500 ZeldaGame.MasterBat </GameObject>
+		<GameObject>-400 400 ZeldaGame.MasterBat </GameObject>
+		<GameObject>-450 350 ZeldaGame.MasterBat </GameObject>
+		<GameObject>-600 550 ZeldaGame.MasterBat </GameObject>
+
+		 
+	</Room2>
+	<Room3>
+		<GameObject>768 172 ZeldaGame.StandardRoom</GameObject>
+		
+		<GameObject>768 172 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>768 484 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1440 172 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1440 484 ZeldaGame.VerticalBarrier</GameObject>
+		
+		<GameObject>768 172 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>768 603 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1202 172 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1202 603 ZeldaGame.HorizontalBarrier</GameObject>
+		
+		<GameObject>1104 172 ZeldaGame.UpWall</GameObject>
+		<GameObject>1104 604 ZeldaGame.DownWall</GameObject>
+		<GameObject>768 388 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>1440 388 ZeldaGame.RightWall</GameObject>
+		
+		<GameObject>960 460 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>960 412 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>960 364 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1008 460 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1008 412 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1008 364 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 460 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 412 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 364 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1248 460 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1248 412 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1248 364 ZeldaGame.StandardBlock</GameObject>
+		
+		<GameObject>968 300 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>1118 400 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>1368 275 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>1268 540 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>1068 500 ZeldaGame.MasterSkeleton</GameObject>
+	</Room3>
+	<Room4>
+		<GameObject>0 -356 ZeldaGame.StandardRoom</GameObject>
+		
+		<GameObject>0 -356 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>0 -44 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -356 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -44 ZeldaGame.VerticalBarrier</GameObject>
+		
+		<GameObject>0 -356 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>0 75 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -356 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 75 ZeldaGame.HorizontalBarrier</GameObject>
+		
+		<GameObject>336 -356 ZeldaGame.UpNormalDoor</GameObject>
+		<GameObject>336 76 ZeldaGame.DownNormalDoor</GameObject>
+		<GameObject>0 -140 ZeldaGame.LeftWall</GameObject>
+		<GameObject>672 -140 ZeldaGame.RightWall</GameObject>
+		
+		<GameObject>336 -68 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>336 -116 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>336 -164 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>384 -68 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>384 -116 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>384 -164 ZeldaGame.StandardBlock</GameObject>
+		
+		<GameObject>300 -228 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>600 -128 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>500 -28 ZeldaGame.MasterSkeleton</GameObject>
+	</Room4>
+	<Room5>
+		<GameObject>-768 -884 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>-768 -884 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-768 -572 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 -884 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 -572 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>-768 -884 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-768 -453 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 -884 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 -453 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>-432 -884 ZeldaGame.UpLockedDoor</GameObject>
+		<GameObject>-432 -452 ZeldaGame.DownWall</GameObject>
+		<GameObject>-768 -668 ZeldaGame.LeftWall</GameObject>
+		<GameObject>-96 -668 ZeldaGame.RightNormalDoor</GameObject>
+		
+		<GameObject>-432 -596 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-432 -644 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-432 -692 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-384 -596 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-384 -644 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-384 -692 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>-568 -556 ZeldaGame.MasterBat</GameObject>
+		<GameObject>-568 -756 ZeldaGame.MasterBat</GameObject>
+		<GameObject>-418 -556 ZeldaGame.MasterBat</GameObject>
+		<GameObject>-268 -756 ZeldaGame.MasterBat</GameObject>
+		<GameObject>-268 -556 ZeldaGame.MasterBat</GameObject>
+	</Room5>
+	<Room6>
+		<GameObject>0 -884 ZeldaGame.StandardRoom</GameObject>
+		
+		<GameObject>0 -884 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>0 -572 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -884 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -572 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>0 -884 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>0 -453 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -884 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -453 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>336 -884 ZeldaGame.UpExplodedDoor</GameObject>
+		<GameObject>336 -452 ZeldaGame.DownNormalDoor</GameObject>
+		<GameObject>0 -668 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>672 -668 ZeldaGame.RightNormalDoor</GameObject>
+		
+		<GameObject>192 -596 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>192 -692 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>528 -596 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>528 -692 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>500 -750 ZeldaGame.KeyItem</GameObject>
+	</Room6>
+	<Room7>
+		<GameObject>768 -884 ZeldaGame.StandardRoom</GameObject>
+		
+		<GameObject>768 -884 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>768 -572 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1440 -884 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1440 -572 ZeldaGame.VerticalBarrier</GameObject>
+		
+		<GameObject>768 -884 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>768 -453 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1202 -884 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1202 -453 ZeldaGame.HorizontalBarrier</GameObject>
+		
+		<GameObject>1104 -884 ZeldaGame.UpExplodedDoor</GameObject>
+		<GameObject>1104 -452 ZeldaGame.DownWall</GameObject>
+		<GameObject>768 -668 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>1440 -668 ZeldaGame.RightWall</GameObject>
+		
+		<GameObject>960 -548 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>960 -740 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 -548 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 -740 ZeldaGame.StandardBlock</GameObject>
+		
+		<GameObject>1003 -801 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1003 -506 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1145 -711 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1243 -711 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1243 -606 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1339 -561 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1339 -753 ZeldaGame.MasterBat</GameObject>
+		<GameObject>1389 -661 ZeldaGame.MasterBat</GameObject>
+		
+		<GameObject>1339 -661 ZeldaGame.CompassItem</GameObject>
+	</Room7>
+	<Room8>
+		<GameObject>-1536 -1412 ZeldaGame.VoidRoom</GameObject>
+
+		<GameObject>-1536 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-1536 -1100 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-864 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-864 -1100 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>-1536 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1536 -981 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1102 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1102 -981 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>-1200 -1412 ZeldaGame.UpWall</GameObject>
+		<GameObject>-1200 -980 ZeldaGame.DownWall</GameObject>
+		<GameObject>-1536 -1196 ZeldaGame.LeftWall</GameObject>
+		<GameObject>-864 -1196 ZeldaGame.RightNormalDoor</GameObject>
+
+		<GameObject>-1040 -1225 ZeldaGame.FireItem</GameObject>
+		<GameObject>-1175 -1225 ZeldaGame.OldManNPC</GameObject>
+		<GameObject>-1310 -1225 ZeldaGame.FireItem</GameObject>
+
+		<GameObject>-1370 -1100 ZeldaGame.RupeeShopItem</GameObject>
+	</Room8>
+	<Room9>
+		<GameObject>-768 -1412 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>-768 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-768 -1100 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 -1100 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>-768 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-768 -981 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 -981 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>-432 -1412 ZeldaGame.UpWall</GameObject>
+		<GameObject>-432 -980 ZeldaGame.DownNormalDoor</GameObject>
+		<GameObject>-768 -1196 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>-96 -1196 ZeldaGame.RightNormalDoor</GameObject>
+		
+		<GameObject>-432 -1172 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>-200 -1100 ZeldaGame.MasterSnake</GameObject>
+		<GameObject>-350 -1200 ZeldaGame.MasterSnake</GameObject>
+		<GameObject>-400 -1300 ZeldaGame.MasterSnake</GameObject>
+
+	</Room9>
+	<Room10>
+		<GameObject>0 -1412 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>0 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>0 -1100 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -1100 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>0 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>0 -981 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -981 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>336 -1412 ZeldaGame.UpNormalDoor</GameObject>
+		<GameObject>336 -980 ZeldaGame.DownExplodedDoor</GameObject>
+		<GameObject>0 -1196 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>672 -1196 ZeldaGame.RightLockedDoor</GameObject>
+
+		<GameObject>192 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>144 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>192 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>144 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>528 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>528 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>576 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>576 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>336 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>384 -1172 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>500 -1100 ZeldaGame.MasterBat</GameObject>
+		<GameObject>350 -1300 ZeldaGame.MasterBat</GameObject>
+		<GameObject>250 -1050 ZeldaGame.MasterSkeleton</GameObject>
+
+		<GameObject>590 -1174 ZeldaGame.MapItem</GameObject>
+	</Room10>
+	<Room11>
+		<GameObject>768 -1412 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>768 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>768 -1100 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1440 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1440 -1100 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>768 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>768 -981 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1202 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1202 -981 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>1104 -1412 ZeldaGame.UpWall</GameObject>
+		<GameObject>1104 -980 ZeldaGame.DownExplodedDoor</GameObject>
+		<GameObject>768 -1196 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>1440 -1196 ZeldaGame.RightNormalDoor</GameObject>
+		
+		<GameObject>960 -1124 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>960 -1220 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 -1124 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1296 -1220 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>1168 -1254 ZeldaGame.BoomerangItem</GameObject>
+
+		<GameObject>968 -1314 ZeldaGame.MasterSnake</GameObject>
+		<GameObject>1018 -1134 ZeldaGame.MasterSnake</GameObject>
+	</Room11>
+	<Room12>
+		<GameObject>1536 -1412 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>1536 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1536 -1100 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1536 -1100 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2208 -1412 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2208 -1100 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>1536 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1536 -981 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1970 -1412 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1970 -981 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>1872 -1412 ZeldaGame.UpLockedDoor</GameObject>
+		<GameObject>1872 -980 ZeldaGame.DownWall</GameObject>
+		<GameObject>1536 -1196 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>2208 -1196 ZeldaGame.RightWall</GameObject>
+		
+		<GameObject>1776 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1680 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1776 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1776 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1680 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1680 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2016 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2016 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2016 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1872 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1920 -1172 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1872 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1920 -1268 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1872 -1076 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1920 -1076 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>1959 -1024 ZeldaGame.KeyItem</GameObject>
+	</Room12>
+	<Room13>
+		<GameObject>0 -1940 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>0 -1940 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>0 -1628 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -1940 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -1628 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>0 -1940 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>0 -1509 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -1940 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -1509 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>336 -1940 ZeldaGame.UpLockedDoor</GameObject>
+		<GameObject>336 -1508 ZeldaGame.DownNormalDoor</GameObject>
+		<GameObject>0 -1724 ZeldaGame.LeftWall</GameObject>
+		<GameObject>672 -1724 ZeldaGame.RightWall</GameObject>
+		
+		<GameObject>624 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>480 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>624 -1604 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>624 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>624 -1748 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>624 -1796 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>624 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>480 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -1796 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -1748 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -1700 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -1604 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -1700 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -1748 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>384 -1748 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>336 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -1796 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -1748 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -1700 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>240 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1844 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>240 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1604 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1748 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1796 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>96 -1556 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -1604 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -1652 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -1700 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -1748 ZeldaGame.WaterBlock</GameObject>
+
+		<GameObject>375 -1812 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>200 -1612 ZeldaGame.MasterSkeleton</GameObject>
+		<GameObject>500 -1712 ZeldaGame.MasterSkeleton</GameObject>
+
+		<GameObject>150 -1600 ZeldaGame.KeyItem</GameObject>
+		<GameObject>585 -1700 ZeldaGame.KeyItem</GameObject>
+	</Room13>      
+	<Room14>
+		<GameObject>0 -2468 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>0 -2468 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>0 -2156 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -2468 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>672 -2156 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>0 -2468 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>0 -2037 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -2468 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>434 -2037 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>336 -2468 ZeldaGame.UpWall</GameObject>
+		<GameObject>336 -2035 ZeldaGame.DownNormalDoor</GameObject>
+		<GameObject>0 -2252 ZeldaGame.LeftLockedDoor</GameObject>
+		<GameObject>672 -2252 ZeldaGame.RightWall</GameObject>
+
+		<GameObject>240 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>288 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>336 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>480 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>432 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>384 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -2228 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -2276 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -2276 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -2324 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -2324 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -2180 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -2180 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>576 -2132 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>144 -2132 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -2324 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -2324 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>480 -2324 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>240 -2324 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>528 -2132 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>192 -2132 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>480 -2132 ZeldaGame.WaterBlock</GameObject>
+		<GameObject>240 -2132 ZeldaGame.WaterBlock</GameObject>
+	</Room14>
+	<Room15>
+		<GameObject>-768 -2468 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>-768 -2468 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-768 -2156 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 -2468 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-96 -2156 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>-768 -2468 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-768 -2037 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 -2468 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-334 -2037 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>-432 -2468 ZeldaGame.UpWall</GameObject>
+		<GameObject>-432 -2036 ZeldaGame.DownWall</GameObject>
+		<GameObject>-768 -2252 ZeldaGame.LeftWall</GameObject>
+		<GameObject>-96 -2252 ZeldaGame.RightNormalDoor</GameObject>
+				
+		<GameObject>-432 -2276 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-384 -2322 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-336 -2276 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-288 -2228 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-432 -2180 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-384 -2132 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-336 -2180 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>-288 -2228 ZeldaGame.StandardBlock</GameObject>
+		
+		<GameObject>-384 -2228 ZeldaGame.StairBlock</GameObject>
+	</Room15>
+	<Room16>
+		<GameObject>1536 -1940 ZeldaGame.StandardRoom</GameObject>
+		
+		<GameObject>1536 -1940 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>1536 -1628 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2208 -1940 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2208 -1628 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>1536 -1940 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1536 -1509 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1970 -1940 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>1970 -1509 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>1872 -1940 ZeldaGame.UpWall</GameObject>
+		<GameObject>1872 -1508 ZeldaGame.DownNormalDoor</GameObject>
+		<GameObject>1536 -1724 ZeldaGame.LeftWall</GameObject>
+		<GameObject>2208 -1724 ZeldaGame.RightNormalDoor</GameObject>
+		<GameObject>2064 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2064 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2160 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2160 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2064 -1556 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2064 -1844 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1556 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1844 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2160 -1556 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2160 -1844 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2016 -1556 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2016 -1844 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1968 -1556 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>1968 -1844 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1652 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2112 -1748 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2160 -1652 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2160 -1748 ZeldaGame.StandardBlock</GameObject>
+
+		<GameObject>2036 -1748 ZeldaGame.MasterDragon</GameObject>
+	</Room16>
+	<Room17>
+		<GameObject>2304 -1940 ZeldaGame.StandardRoom</GameObject>
+
+		<GameObject>2304 -1940 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2304 -1628 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2976 -1940 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>2976 -1628 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>2304 -1940 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>2304 -1509 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>2738 -1940 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>2738 -1509 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>2640 -1940 ZeldaGame.UpWall</GameObject>
+		<GameObject>2640 -1508 ZeldaGame.DownWall</GameObject>
+		<GameObject>2304 -1724 ZeldaGame.LeftNormalDoor</GameObject>
+		<GameObject>2976 -1724 ZeldaGame.RightWall</GameObject>
+		<GameObject>2496 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2496 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2448 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2448 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2448 -1748 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2448 -1700 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2448 -1652 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2832 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2832 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2880 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2880 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2880 -1748 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2880 -1700 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2880 -1652 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2784 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2736 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2544 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2592 -1604 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2784 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2736 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2544 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2592 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2640 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2688 -1796 ZeldaGame.StandardBlock</GameObject>
+		<GameObject>2592 -1748 ZeldaGame.FishBlock</GameObject>
+		<GameObject>2736 -1748 ZeldaGame.FishBlock</GameObject>
+		<GameObject>2544 -1700 ZeldaGame.FishBlock</GameObject>
+		<GameObject>2784 -1700 ZeldaGame.FishBlock</GameObject>
+
+		<GameObject>2673 -1686 ZeldaGame.TriangleItem</GameObject>
+	</Room17>	
+	<Room18>
+		<GameObject>-1536 -2424 ZeldaGame.Basement</GameObject>
+
+		<GameObject>-1491 -2425 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-1491 -2354 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-1342 -2425 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-1342 -2354 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-1536 -2156 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-1297 -2354 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-864 -2427 ZeldaGame.VerticalBarrier</GameObject>
+		<GameObject>-864 -2213 ZeldaGame.VerticalBarrier</GameObject>
+
+		<GameObject>-1536 -2040 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1102 -2328 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1296 -2328 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1302 -2040 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1102 -2040 ZeldaGame.HorizontalBarrier</GameObject>
+		<GameObject>-1344 -2185 ZeldaGame.HorizontalBarrier</GameObject>
+
+		<GameObject>-1439 -2184 ZeldaGame.SlimVerticalBarrier</GameObject>
+		<GameObject>-960 -2184 ZeldaGame.SlimVerticalBarrier</GameObject>
+		<GameObject>-912 -2184 ZeldaGame.SlimVerticalBarrier</GameObject>
+
+		<GameObject>-1392 -2480 ZeldaGame.InvisibleStairBlock</GameObject>
+
+		<GameObject>-1181 -2233 ZeldaGame.BowItem</GameObject>
+	</Room18>
+</Level1>

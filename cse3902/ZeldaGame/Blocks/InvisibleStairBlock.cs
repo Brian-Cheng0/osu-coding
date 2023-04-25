@@ -1,0 +1,25 @@
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ZeldaGame
+{
+    public class InvisibleStairBlock : GameObject, IBlock, IDrawable, ICollidable
+    {
+        public InvisibleStairBlock()
+        {
+            sprite = SpriteFactory.Instance.getSprite(Sprite.InvisStairs);
+            Location = new Vector2(200, 100); // currentLocation or Location? does it matter?
+        }
+
+        public override String GetCollidableType()
+        {
+            return "Stairs";
+        }
+    }
+}

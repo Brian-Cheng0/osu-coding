@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Zelda1>
+	<!--Underground Sound-->
+	<Sound>Sound/UnderworldBackground</Sound>
+	<!--Rupee Sound-->
+	<Sound>Sound/GetRupee</Sound>
+	<!--Heart Sound-->
+	<Sound>Sound/GetHeart</Sound>
+	<!--Item Sound-->
+	<Sound>Sound/GetItemSound</Sound>
+	<!--Bomb Blow Sound-->
+	<Sound>Sound/BombBlow</Sound>
+	<!--Bomb Drop Sound-->
+	<Sound>Sound/BombDrop</Sound>
+	<!--Link Hurt Sound-->
+	<Sound>Sound/LinkHurt</Sound>
+	<!--Low Health Sound-->
+	<Sound>Sound/LowHealthSound</Sound>
+	<!--Enemy Hit Sound-->
+	<Sound>Sound/EnemyHit</Sound>
+	<!--Enemy Die Sound-->
+	<Sound>Sound/EnemyDie</Sound>
+	<!--Boomerang Sound-->
+	<Sound>Sound/BoomerangSound</Sound>
+	<!--Sword Slash Sound-->
+	<Sound>Sound/SwordSlash</Sound>
+	<!--Door Unlocked Sound-->
+	<Sound>Sound/DoorUnlocked</Sound>
+	<!--Fanfare-->
+	<Sound>Sound/GetFanfare</Sound>
+	<!--Boss Scream-->
+	<Sound>Sound/BossScream</Sound>
+	<!--Win Sound-->
+	<Sound>WinSound</Sound>
+	<!--Link Death Sound-->
+	<Sound>LinkDeathSound</Sound>
+</Zelda1>
