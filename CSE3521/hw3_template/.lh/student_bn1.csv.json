@@ -1,0 +1,26 @@
+{
+    "sourceFile": "student_bn1.csv",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1699835513146,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1699835615489,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,16 +1,16 @@\n-﻿C,,,\r\n-0.001,,,\r\n-,,,\r\n-,,,\r\n-D,,,\r\n-0.002,,,\r\n-,,,\r\n-,,,\r\n-E,,,\r\n-0.003,,,\r\n-,,,\r\n-,,,\r\n+C,,\r\n+0.001,,\r\n+,,\r\n+\r\n+D,,\r\n+0.002,,\r\n+,,\r\n+\r\n+E,,\r\n+0.003,,\r\n+,,\r\n+\r\n C,D,E,A\r\n T,T,T,0.12\r\n T,T,F,0.56\r\n T,F,T,0.73\r\n@@ -18,30 +18,30 @@\n F,T,T,0.13\r\n F,T,F,0.99\r\n F,F,T,0.98\r\n F,F,F,0.3\r\n-,,,\r\n-,,,\r\n-C,A,G,\r\n-T,T,0.14,\r\n-T,F,0.15,\r\n-F,T,0.57,\r\n-F,F,0.58,\r\n-,,,\r\n-,,,\r\n+,,\r\n+\r\n+C,A,G\r\n+T,T,0.14\r\n+T,F,0.15\r\n+F,T,0.57\r\n+F,F,0.58\r\n+,,\r\n+\r\n A,Q,,\r\n T,0.02,,\r\n F,0.4,,\r\n-,,,\r\n-,,,\r\n-G,Q,B,\r\n-T,T,0.31,\r\n-T,F,0.35,\r\n-F,T,0.48,\r\n-F,F,0.34,\r\n-,,,\r\n-,,,\r\n-Q,E,F,\r\n-T,T,0.93,\r\n-T,F,0.86,\r\n-F,T,0.74,\r\n-F,F,0.71,\r\n+,,\r\n+\r\n+G,Q,B\r\n+T,T,0.31\r\n+T,F,0.35\r\n+F,T,0.48\r\n+F,F,0.34\r\n+,,\r\n+\r\n+Q,E,F\r\n+T,T,0.93\r\n+T,F,0.86\r\n+F,T,0.74\r\n+F,F,0.71\r\n"
+                },
+                {
+                    "date": 1699835633456,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,16 +1,16 @@\n-﻿C,,,\r\n-0.001,,,\r\n-,,,\r\n-,,,\r\n-D,,,\r\n-0.002,,,\r\n-,,,\r\n-,,,\r\n-E,,,\r\n-0.003,,,\r\n-,,,\r\n-,,,\r\n+C,,\r\n+0.001,,\r\n+,,\r\n+\r\n+D,,\r\n+0.002,,\r\n+,,\r\n+\r\n+E,,\r\n+0.003,,\r\n+,,\r\n+\r\n C,D,E,A\r\n T,T,T,0.12\r\n T,T,F,0.56\r\n T,F,T,0.73\r\n@@ -18,30 +18,30 @@\n F,T,T,0.13\r\n F,T,F,0.99\r\n F,F,T,0.98\r\n F,F,F,0.3\r\n-,,,\r\n-,,,\r\n-C,A,G,\r\n-T,T,0.14,\r\n-T,F,0.15,\r\n-F,T,0.57,\r\n-F,F,0.58,\r\n-,,,\r\n-,,,\r\n+,,\r\n+\r\n+C,A,G\r\n+T,T,0.14\r\n+T,F,0.15\r\n+F,T,0.57\r\n+F,F,0.58\r\n+,,\r\n+\r\n A,Q,,\r\n T,0.02,,\r\n F,0.4,,\r\n-,,,\r\n-,,,\r\n-G,Q,B,\r\n-T,T,0.31,\r\n-T,F,0.35,\r\n-F,T,0.48,\r\n-F,F,0.34,\r\n-,,,\r\n-,,,\r\n-Q,E,F,\r\n-T,T,0.93,\r\n-T,F,0.86,\r\n-F,T,0.74,\r\n-F,F,0.71,\r\n+,,\r\n+\r\n+G,Q,B\r\n+T,T,0.31\r\n+T,F,0.35\r\n+F,T,0.48\r\n+F,F,0.34\r\n+,,\r\n+\r\n+Q,E,F\r\n+T,T,0.93\r\n+T,F,0.86\r\n+F,T,0.74\r\n+F,F,0.71\r\n"
+                }
+            ],
+            "date": 1699835513146,
+            "name": "Commit-0",
+            "content": "C,,\r\n0.001,,\r\n,,\r\n\r\nD,,\r\n0.002,,\r\n,,\r\n\r\nE,,\r\n0.003,,\r\n,,\r\n\r\nC,D,E,A\r\nT,T,T,0.12\r\nT,T,F,0.56\r\nT,F,T,0.73\r\nT,F,F,0.49\r\nF,T,T,0.13\r\nF,T,F,0.99\r\nF,F,T,0.98\r\nF,F,F,0.3\r\n,,\r\n\r\nC,A,G,\r\nT,T,0.14,\r\nT,F,0.15,\r\nF,T,0.57,\r\nF,F,0.58,\r\n,,\r\n\r\nA,Q,,\r\nT,0.02,,\r\nF,0.4,,\r\n,,\r\n\r\nG,Q,B,\r\nT,T,0.31,\r\nT,F,0.35,\r\nF,T,0.48,\r\nF,F,0.34,\r\n,,\r\n\r\nQ,E,F,\r\nT,T,0.93,\r\nT,F,0.86,\r\nF,T,0.74,\r\nF,F,0.71,\r\n"
+        }
+    ]
+}
