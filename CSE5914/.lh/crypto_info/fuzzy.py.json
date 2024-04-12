@@ -1,0 +1,18 @@
+{
+    "sourceFile": "crypto_info/fuzzy.py",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1709764466777,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1709764466777,
+            "name": "Commit-0",
+            "content": "from fuzzywuzzy import process\r\n\r\n\r\ndef predict(str):\r\n    # Sample dataset\r\n    coin = ['bitcoin', 'ethereum', 'tether', 'binance-coin', 'solana', 'usd-coin', 'xrp', 'cardano', 'dogecoin', 'avalanche', 'tron', 'polkadot', 'chainlink', 'polygon', 'wrapped-bitcoin', 'multi-collateral-dai', 'internet-computer', 'shiba-inu', 'litecoin', 'bitcoin-cash', 'unus-sed-leo', 'uniswap', 'ethereum-classic', 'stellar', 'okb', 'monero', 'near-protocol', 'lido-dao', 'filecoin', 'injective-protocol', 'bitcoin-bep2', 'cosmos', 'stacks', 'crypto-com-coin', 'vechain', 'maker', 'trueusd', 'the-graph', 'render-token', 'bitcoin-sv', 'thorchain', 'aave', 'algorand', 'quant', 'elrond-egld', 'flow', 'helium', 'mina', 'hedera-hashgraph', 'axie-infinity', 'kucoin-token', 'theta', 'fantom', 'the-sandbox', 'tezos', 'ftx-token', 'wemix', 'chiliz', 'decentraland', 'kava', 'frax-share', 'eos', 'neo', 'synthetix-network-token', 'iota', 'klaytn', 'oasis-network', 'conflux-network', 'siacoin', 'wootrade', 'gala', 'pancakeswap', 'ecash', 'akash-network', 'arweave', 'pendle', 'xinfin-network', 'gnosis-gno', 'fetch', 'dydx', 'curve-dao-token', 'casper', 'gatetoken', 'trust-wallet-token', 'nexo', 'nem', '1inch', 'compound', 'fei-protocol', 'skale-network', 'aelf', 'uma', 'huobi-token', 'iotex', 'enjin-coin', 'gas', 'paxos-standard', 'zcash', 'zilliqa', 'celo']\r\n\r\n    keyword = [\"id\", \"rank\", \"symbol\", \"name\", \"supply\", \"maxSupply\", \"marketCapUsd\", \"volumeUsd24Hr\", \"priceUsd\",\r\n               \"changePercent24Hr\", \"vwap24Hr\", \"explorer\"]\r\n\r\n    # User search input\r\n    query = str\r\n    query_k = str\r\n\r\n    # Fuzzy search using Levenshtein Distance to find the best match\r\n    best_match = process.extractBests(query, coin, limit=2)\r\n    best_match2 = process.extract(query_k, keyword)\r\n    # print(best_match)\r\n    ls = []\r\n    for name, rate in best_match:\r\n        ls.append(name)\r\n    ls2 = []\r\n    for name, rate in best_match2:\r\n        ls2.append(name)\r\n    return ls, ls2\r\n\r\n# print(predict(\"bit price\"))"
+        }
+    ]
+}
