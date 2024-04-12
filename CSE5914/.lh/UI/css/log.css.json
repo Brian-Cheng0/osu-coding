@@ -1,0 +1,66 @@
+{
+    "sourceFile": "UI/css/log.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 12,
+            "patches": [
+                {
+                    "date": 1711416728712,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1711416790159,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n .login-form{\r\n-    width: 240px;\r\n-    height: 220px;\r\n+    width: 20px;\r\n+    height: 18px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n     position: relative\r\n"
+                },
+                {
+                    "date": 1711416801087,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,12 @@\n+.login-form{\r\n+    width: 200px;\r\n+    height: 180px;\r\n+    display: flex;\r\n+    padding: 40px;\r\n+    text-align: center;\r\n+    position: relative\r\n+    z-index = 10;\r\n+    background: inherit;\r\n+    border-radius: 18px;\r\n+    overflow: hidden;\r\n+}\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1711416810042,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,24 +1,12 @@\n .login-form{\r\n     width: 200px;\r\n-    height: 180px;\r\n+    height: 50px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n     position: relative\r\n     z-index = 10;\r\n     background: inherit;\r\n     border-radius: 18px;\r\n     overflow: hidden;\r\n-}\n-.login-form{\r\n-    width: 20px;\r\n-    height: 18px;\r\n-    display: flex;\r\n-    padding: 40px;\r\n-    text-align: center;\r\n-    position: relative\r\n-    z-index = 10;\r\n-    background: inherit;\r\n-    border-radius: 18px;\r\n-    overflow: hidden;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1711416815734,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n .login-form{\r\n     width: 200px;\r\n-    height: 50px;\r\n+    height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n     position: relative\r\n"
+                },
+                {
+                    "date": 1711416820928,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n .login-form{\r\n-    width: 200px;\r\n+    width: 50px;\r\n     height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n"
+                },
+                {
+                    "date": 1711416827756,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n .login-form{\r\n-    width: 50px;\r\n+    width: 200px;\r\n     height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n"
+                },
+                {
+                    "date": 1711416833218,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n     height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n-    position: relative\r\n+    position: relative;\r\n     z-index = 10;\r\n     background: inherit;\r\n     border-radius: 18px;\r\n     overflow: hidden;\r\n"
+                },
+                {
+                    "date": 1711416842196,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,10 +3,9 @@\n     height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n-    position: relative;\r\n-    z-index = 10;\r\n+    position: relative\r\n     background: inherit;\r\n     border-radius: 18px;\r\n     overflow: hidden;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1711416848403,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,8 @@\n     height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n     text-align: center;\r\n-    position: relative\r\n+    position: relative;\r\n     background: inherit;\r\n-    border-radius: 18px;\r\n     overflow: hidden;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1711416854061,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,6 +5,7 @@\n     padding: 40px;\r\n     text-align: center;\r\n     position: relative;\r\n     background: inherit;\r\n+    border-radius: 18px;\r\n     overflow: hidden;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1711416887146,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n     width: 200px;\r\n     height: 100px;\r\n     display: flex;\r\n     padding: 40px;\r\n-    text-align: center;\r\n+    text-align: left;\r\n     position: relative;\r\n     background: inherit;\r\n     border-radius: 18px;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1711417538118,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,10 @@\n+@media (max-width: 640px) {\r\n+    .demo-btns .modal__trigger {\r\n+      margin-bottom: 0.8rem;\r\n+    }\r\n+  }\r\n+\r\n .login-form{\r\n     width: 200px;\r\n     height: 100px;\r\n     display: flex;\r\n@@ -7,5 +13,7 @@\n     text-align: center;\r\n     position: relative;\r\n     background: inherit;\r\n     border-radius: 18px;\r\n-}\n\\ No newline at end of file\n+}\r\n+\r\n+.login-form\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1711416728712,
+            "name": "Commit-0",
+            "content": ".login-form{\r\n    width: 240px;\r\n    height: 220px;\r\n    display: flex;\r\n    padding: 40px;\r\n    text-align: center;\r\n    position: relative\r\n    z-index = 10;\r\n    background: inherit;\r\n    border-radius: 18px;\r\n    overflow: hidden;\r\n}"
+        }
+    ]
+}
