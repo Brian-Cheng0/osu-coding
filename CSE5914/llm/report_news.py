@@ -1,7 +1,7 @@
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
-
+os.environ["OPENAI_API_KEY"] = "API_KEY"
+API_KEY
 from langchain.agents import AgentType, initialize_agent
 from langchain.cache import InMemoryCache
 from langchain.globals import set_llm_cache

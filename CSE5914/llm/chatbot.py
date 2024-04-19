@@ -7,9 +7,9 @@ from langchain.globals import set_llm_cache
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
 
-os.environ["OPENAI_API_KEY"] = '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'
-#invoek the chat model
-chat = ChatOpenAI(model="gpt-3.5-turbo-0125", api_key="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")
+os.environ["OPENAI_API_KEY"] = 'API_KEY'
+#invoek the chat modelAPI
+chat = ChatOpenAI(model="gpt-3.5-turbo-0125", api_key="API_KEY")
 set_llm_cache(InMemoryCache())
 messages = [
     SystemMessage(content="You're a helpful assistant"),

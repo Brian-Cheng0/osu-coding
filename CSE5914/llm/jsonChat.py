@@ -8,9 +8,9 @@ from langchain.chat_models import ChatOpenAI
 from langchain.globals import set_llm_cache
 from langchain.tools.json.tool import JsonSpec
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'API_KEY'
 
-#load json file
+#load json fileAPI_KEY
 file = open('crypto.json')
 data = json.load(file)
 
