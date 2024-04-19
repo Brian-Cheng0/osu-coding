@@ -1,4 +1,4 @@
-fetch("processs.json")
+fetch("process.json")
 .then(function(response){
     return response.json();
 })

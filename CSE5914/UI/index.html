@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="css/index_style.css">
     <link rel="stylesheet" href="css/table.css">
     <link rel="stylesheet" href="css/button.css">
-    <link rel="stylesheet" href="css/log.css">
     <link rel="icon" href="favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Permanent+Marker&family=Unbounded:wght@300&display=swap" rel="stylesheet">
 </head>
@@ -31,9 +30,9 @@
     <div class="search_bar">
         <div class="topnav">
             
-            <input type="text" placeholder="Search cryptocurrency..">
-            <a href="index.html" target="_blank">
-                <button class="button-30" role="button">Search</button>
+            <input type="text" placeholder="Search cryptocurrency.." id="search_input">
+            <a>
+                <button class="button-30" role="button" onclick="onSearch()">Search</button>
             </a>
 
         </div>
@@ -41,10 +40,10 @@
     </div>
     <div>
         <a href="index_main.html" target="_blank">
-            <button class="button-30" role="button">API 1</button>
+            <button class="button-30" role="button">Crypto List</button>
         </a>
         <a href="index.html" target="_blank">
-            <button class="button-30" role="button">API 2</button>
+            <button class="button-30" role="button">Information Search</button>
         </a>
         <!-- <a href="index.html" target="_blank">
             <button class="button-30" role="button">API 3</button>
@@ -55,8 +54,8 @@
     </div>
     
     <table>
-        <thread>
-            <tr>
+        <thead id="data-attrs">
+            <!-- <tr>
                 <th>id</th>
                 <th>name</th>
                 <th>name_id</th>
@@ -64,11 +63,11 @@
                 <th>active_pairs</th>
                 <th>url</th>
                 <th>country</th>
-            </tr>
+            </tr> -->
 
-        </thread>
+        </thead>
 
-        <tbody id = "data-output">
+        <tbody id = "data-contents">
 
         </tbody>
     </table>

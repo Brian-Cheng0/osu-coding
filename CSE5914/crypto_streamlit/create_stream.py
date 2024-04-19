@@ -50,4 +50,4 @@ for item in crypto_names:
         stream(item['symbol'], '1mo')
         break
 
-# stream('BTC', '1mo')
+# stream('ETH', '1mo')

@@ -1,0 +1,27 @@
+.button-1 {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    margin-left : 15px;
+    color: #444444;
+    background-color: transparent;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 15pt;
+    outline: linen;
+    border:2px solid #fff;
+    border-radius:3px;
+}
+
+.button-1:hover {
+    border: 1px #C6C6C6 solid;
+    box-shadow: 1px 1px 1px #EAEAEA;
+    color: #333333;
+    background: #F7F7F7;
+}
+
+.button-1:active {
+    box-shadow: inset 1px 1px 1px #DFDFDF;   
+}
+
+
